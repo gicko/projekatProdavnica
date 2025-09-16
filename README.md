@@ -6,3 +6,5 @@ tehnologije koje se koriste
 - Spring Boot 3.x
 - H2 baza podataka
 - Maven
+Aplikacija se pokreće preko Prodavnica.Java i pristupa se putem stranice
+[http://localhost:8000]
