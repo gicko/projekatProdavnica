@@ -6,7 +6,8 @@ Tehnologije koje se koriste
 - Spring Boot 3.x
 - H2 baza podataka
 - Maven
-Aplikacija se pokreće preko Prodavnica.Java i pristupa se putem stranice
+Aplikacija se pokreće preko Prodavnica.Java i pristupa se putem stranice:
 [http://localhost:8000]
+  ///--***-H2 Konzola-***----
 http://localhost:8080/h2-console
-JBDC URL:jdbc:h2:file:./data/prodavnica
+-***JBDC URL**-:jdbc:h2:file:./data/prodavnica
