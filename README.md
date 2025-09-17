@@ -8,3 +8,5 @@ Tehnologije koje se koriste
 - Maven
 Aplikacija se pokreće preko Prodavnica.Java i pristupa se putem stranice
 [http://localhost:8000]
+http://localhost:8080/h2-console
+JBDC URL:jdbc:h2:file:./data/prodavnica
